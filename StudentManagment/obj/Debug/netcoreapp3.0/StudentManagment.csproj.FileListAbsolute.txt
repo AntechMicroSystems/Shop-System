@@ -1,0 +1,11 @@
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.exe
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.deps.json
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.runtimeconfig.json
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.runtimeconfig.dev.json
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.dll
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\bin\Debug\netcoreapp3.0\StudentManagment.pdb
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\obj\Debug\netcoreapp3.0\StudentManagment.csprojAssemblyReference.cache
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\obj\Debug\netcoreapp3.0\StudentManagment.AssemblyInfoInputs.cache
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\obj\Debug\netcoreapp3.0\StudentManagment.AssemblyInfo.cs
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\obj\Debug\netcoreapp3.0\StudentManagment.dll
+C:\Users\Antech\source\repos\StudentManagment\StudentManagment\obj\Debug\netcoreapp3.0\StudentManagment.pdb
